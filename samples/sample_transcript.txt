@@ -1,0 +1,8 @@
+Sample meeting transcript - demo
+
+Attendees: Alice (PM), Bob (Engineer), Carol (Designer)
+
+Alice: Thanks everyone for joining. We need to finalize the launch checklist by next Friday.
+Bob: I'm still working on the API integration; it should be done by Wednesday.
+Carol: I will deliver the final designs by Tuesday. We also need to confirm the copy.
+Alice: Action items: Bob to finish API, Carol to finalize designs, Alice to coordinate a copy review. We'll have a quick sync on Thursday.
